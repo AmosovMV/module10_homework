@@ -1,0 +1,10 @@
+.btn_svg {
+  display: flex;
+  font-size: 15px;
+  padding: 5px 10px;
+  align-items: center;
+}
+
+.div_button {
+  margin-right: 10px;
+}
